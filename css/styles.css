@@ -63,7 +63,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('/images/ontrack.webp') no-repeat center ;
+  background: url('../images/ontrack.webp') no-repeat center ;
   background-size: cover;
   width: 100vw;
   overflow: hidden;
